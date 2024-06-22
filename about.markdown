@@ -6,8 +6,8 @@ permalink: /about/
 
 My name is Ben.
 
-I really like math.
+I like math.
 
 Currently working on AI alignment.
 
-Helped make [alignment.guide](https://alignment.guide).
+Helped make <a href="https://alignment.guide" target="_blank">alignment.guide</a>.
